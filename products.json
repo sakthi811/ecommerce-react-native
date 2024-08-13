@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "Galaxy Watch 7 | Silver",
+        "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTo-btF07b-NpysAVoLVsKwnVWi9AlweUWUPPke08YjE4EW3KIhT-YKSBwz7aT7Ku-PKsBpdSFd1vDY7FOImRkuBqIvBNKBTp5spLqbrHsQLdJzNYUKah8ryptp9xaaUS247PwEOg&usqp=CAc",
+        "price": 32999,
+        "description": "Brand new Galaxy Watch 7, Silver Color"
+    },
+    {
+        "id": 2,
+        "name": "Galaxy Watch 7 | Green",
+        "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSGtrE1vumIDbEISW3JiKL56IZ_vZ1oLnU7Ls7xCX3M0RlcsAOCgBFU4LVQ7jmed-huZ4n0EoTXPdI1F3ZMJ_2SddCvqXRmk30Iv7Q9gigH0g_xwqSRGxmX7CS-hJxhmMhtSipHwJo&usqp=CAc",
+        "price": 30999,
+        "description": "Brand new Galaxy Watch 7, Green Color"    
+    },
+    {
+        "id": 3,
+        "name": "Noise ColorFit | Pulse 4",
+        "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSEi_pdu9ApVcpyWdPQtqxHFqS7MzdqP9HpFdxh2DW2RuJQ0lYOjVI6FhDZhgB8SY1Cs5tIeGvOukM0uXOflcBGmL9OXosH1fWrX34UH5e4MZsn-9kDNVh_iyK3gFR0CxNZvjILv9Q&usqp=CAc",
+        "price": 2499,
+        "description": "Brand new NoiseFit Pulse 4, Blue Color"  
+    },
+    {
+        "id": 4,
+        "name": "Galaxy Watch 7 | Silver",
+        "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTo-btF07b-NpysAVoLVsKwnVWi9AlweUWUPPke08YjE4EW3KIhT-YKSBwz7aT7Ku-PKsBpdSFd1vDY7FOImRkuBqIvBNKBTp5spLqbrHsQLdJzNYUKah8ryptp9xaaUS247PwEOg&usqp=CAc",
+        "price": 32999,
+        "description": "Brand new Galaxy Watch 7, Silver Color"
+    },
+    {
+        "id": 5,
+        "name": "Galaxy Watch 7 | Green",
+        "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSGtrE1vumIDbEISW3JiKL56IZ_vZ1oLnU7Ls7xCX3M0RlcsAOCgBFU4LVQ7jmed-huZ4n0EoTXPdI1F3ZMJ_2SddCvqXRmk30Iv7Q9gigH0g_xwqSRGxmX7CS-hJxhmMhtSipHwJo&usqp=CAc",
+        "price": 30999,
+        "description": "Brand new Galaxy Watch 7, Green Color"    
+    }
+]
